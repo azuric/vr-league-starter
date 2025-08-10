@@ -107,7 +107,7 @@ export default function Home() {
                 <TrendingUp className="w-6 h-6 text-white" />
               </div>
               <h3 className="text-xl font-bold text-white mb-2">Climb, Fly, Build</h3>
-              <p className="text-gray-300">Experience Population One&apos;srevolutionary Vertical Combat System in competitive tournaments.</p>
+              <p className="text-gray-300">Experience Population One's revolutionary Vertical Combat System in competitive tournaments.</p>
             </div>
           </div>
 
