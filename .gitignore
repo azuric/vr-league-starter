@@ -14,7 +14,7 @@
 /coverage
 
 # Webpack cache
-.webpack/
+/.webpack/
 
 # next.js
 /.next/
