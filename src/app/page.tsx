@@ -80,7 +80,7 @@ export default function Home() {
               The Future of <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-600">VR Esports</span>
             </h1>
             <p className="text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
-              Where Virtual Reality meets competitive gaming. Join the UK's premier Population One league.
+              Where Virtual Reality meets competitive gaming. Join the UK&aposs premier Population One league.
             </p>
           </div>
 
